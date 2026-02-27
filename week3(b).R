@@ -1,3 +1,7 @@
+# DV Lab – Week 3(b)
+# Name:V NAGA VEERANNA
+# Roll No:24A95A6103
+
 # Load dataset
 data(airquality)
 
