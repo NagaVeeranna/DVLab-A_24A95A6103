@@ -54,3 +54,4 @@ ggplot(diamonds,aes(carat,price))+geom_hex(bins=20)+
 ggplot(diamonds,aes(carat,price))+geom_hex()+scale_fill_viridis_c()+
   facet_wrap(~cut)+
   theme_minimal()
+
