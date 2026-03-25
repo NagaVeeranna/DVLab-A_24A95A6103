@@ -1,3 +1,7 @@
+# DV Lab – Week 1(a)
+# Name:V NAGA VEERANNA
+# Roll No:24A95A6103
+
 # Load dataset
 data(iris)
 
@@ -109,7 +113,7 @@ ggcorr(
   label = TRUE,
   label_round = 2
 )
-
+ṁ
 # Scatter plot matrix
 ggpairs(
   iris,
